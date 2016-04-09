@@ -1,5 +1,5 @@
 # Turkey-Internal-Migration
-Internal migration between cities and districts and within cities
+Data files for internal migration between cities and districts and within cities within CSV and JSON data formats.
 
 ## Demo Page
 
