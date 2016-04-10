@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-# Turkey-Internal-Migration
-Data files for internal migration between cities and districts and within cities within CSV and JSON data formats.
-=======
+
 # Turkey-Migration-Name-Statistics
 
 Data regarding to Turkish internal migration and name statistics in [CSV](https://en.wikipedia.org/wiki/csv) and [JSON](https://en.wikipedia.org/wiki/JSON) formats. 
@@ -14,12 +11,11 @@ Data regarding to Firstname and Lastname accurences in Turkey on City basis.
 
 _**Note:** Page will take some time to load, and is very huge for mobile viewing in terms of data usage._
 
-Check [here](http://ftkurt.github.io/turkey/namefrequencies) to view demo page showing inter-city migrations and intra-city migration if selected.
+Check [here](http://ftkurt.github.io/turkey/namefrequencies/) to view demo page showing inter-city migrations and intra-city migration if selected.
 
 ## Turkey-Internal-Migration
 
 Internal migration between cities and districts and within cities
->>>>>>> Stashed changes
 
 ### Demo Page
 
