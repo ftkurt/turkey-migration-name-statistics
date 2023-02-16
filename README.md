@@ -15,7 +15,7 @@ Check [here](http://ftkurt.github.io/turkey/namefrequencies/) to view demo page 
 
 ## Turkey-Internal-Migration
 
-Internal migration between cities and districts and within cities
+Internal migration among population centers both on city and districts levels
 
 ### Demo Page
 
